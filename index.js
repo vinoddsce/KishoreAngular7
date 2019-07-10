@@ -1,11 +1,9 @@
-
 var display = function (name) {
     console.log("Hello !!!", name);
 }
 display("Vinod");
 
-
-// // Syntax
+// Syntax
 var display_arrow = (name) => {
     console.log("Hello From Arrow!!!", name);
 }
